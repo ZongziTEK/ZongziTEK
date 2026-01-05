@@ -1,5 +1,5 @@
 # ZongziTEK
 
-🟦 Hello.
+👋 Hello.
 
-🟥 My wangzhan is https://zongzitek.top
+🔗 My wangzhan is https://zongzitek.top
